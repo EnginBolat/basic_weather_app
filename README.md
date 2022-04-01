@@ -15,13 +15,13 @@ Basic Weather App I made with Flutter.
 Clone the project
 
 ```bash
-  git clone https://github.com/EnginBolat/basic_wheater_app.git
+  git clone https://github.com/EnginBolat/basic_weather_app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd basic_wheater_app
+  cd basic_weather_app
 ```
 
 Install dependencies
