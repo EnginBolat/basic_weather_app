@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future getResponse(double? latitude, double? longitude) async {
     var url = Uri.parse(
-        "https://api.openweathermap.org/data/2.5/weather?lat=$latitude&lon=$longitude&units=metric&appid=af34768b92ee6248caa4c94d8f746594");
+        "https://api.openweathermap.org/data/2.5/weather?lat=$latitude&lon=$longitude&units=metric&appid=YOUR API KEY");
     http.Response response = await http.get(url);
     var results = jsonDecode(response.body);
     setState(() {
