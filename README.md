@@ -35,3 +35,4 @@ Run App
 ```bash
   flutter run
 ```
+![Simulator Screen Shot - iPhone 11 - 2022-04-28 at 00 04 18](https://user-images.githubusercontent.com/59659276/165631220-68d2c906-839a-41a3-99cb-adad40647e63.png)
